@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Swami529
-- 👀 I’m interested in python
+- 👋 Hi, I’m Swaminathan from Tamilnadu
+- 👀 I’m interested in python, data analytics
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me : to my email
